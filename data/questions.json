@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "index": 0,
+      "question": "Melanie und Timo sind schon auf dem Flohmarkt",
+      "choices": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 0
+    },
+    {
+      "index": 1,
+      "question": "Melanie weiß, wo Timo und Klara sind",
+      "choices": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 0
+    },
+    {
+      "index": 2,
+      "question": "Klara hat ihren Stand neben Timo an der Ecke.",
+      "choices": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1
+    },
+    {
+      "index": 3,
+      "question": "Melanie hat ihre Sachen in ihrem Zimmer vergessen.",
+      "choices": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 0
+    },
+    {
+      "index": 4,
+      "question": "Sie stehen in der Küche vor dem Tisch auf den Stühlen.",
+      "choices": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 0
+    },
+    {
+      "index": 5,
+      "question": "Vor der Haustür war schon das Fahrrad.",
+      "choices": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 1
+    },
+    {
+      "index": 6,
+      "question": "Ihre Mutter hängt ihren Mantel immer an einen Haken über das Kleiderschränkchen.",
+      "choices": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 0
+    },
+    {
+      "index": 7,
+      "question": "Melanie geht noch einmal nach Hause und holt ihre Sachen.",
+      "choices": [
+        "Richtig",
+        "Falsch"
+      ],
+      "answer": 0
+    }
+  ]
+}
